@@ -1,16 +1,28 @@
-## Hi there 👋
+# 📊 Francisco Barbosa
 
-<!--
-**francisco-barbosa-analista/francisco-barbosa-analista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cientista de dados`**
 
-Here are some ideas to get you started:
+Profissional da área ambiental em transição para a Ciência de Dados, com experiência em análise de dados ambientais, visualização de dados, SIG e desenvolvimento de soluções em tecnologia. Forte atuação em projetos de pesquisa e educação ambiental, com competências em R, Excel, e em desenvolvimento em Python e SQL. Atualmente atuo como freelancer em análise de dados, ampliando habilidades em Data Analytics e Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="R"
+    title="R" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+  />
+
+<img 
+  align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+ 
